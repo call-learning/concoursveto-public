@@ -1,0 +1,60 @@
+[submodule "mod/questionnaire"]
+	path = mod/questionnaire
+	url = https://github.com/PoetOS/moodle-mod_questionnaire.git
+[submodule "report/customsql"]
+	path = report/customsql
+	url = https://github.com/moodleou/moodle-report_customsql
+[submodule "mod/customcert"]
+	path = mod/customcert
+	url = https://github.com/mdjnelson/moodle-mod_customcert
+[submodule "lib/editor/atto/plugins/styles"]
+	path = lib/editor/atto/plugins/styles
+	url = https://github.com/moodleuulm/moodle-atto_styles
+[submodule "theme/clboost"]
+	path = theme/clboost
+	url = https://github.com/call-learning/moodle-theme_clboost.git
+[submodule "theme/envf"]
+	path = theme/envf
+	url = https://github.com/call-learning/moodle-theme_envf.git
+[submodule "blocks/mcms"]
+	path = blocks/mcms
+	url = https://github.com/call-learning/moodle-block_mcms.git
+[submodule "local/mcms"]
+	path = local/mcms
+	url = https://github.com/call-learning/moodle-local_mcms.git
+[submodule "blocks/sponsors"]
+	path = blocks/sponsors
+	url = https://github.com/call-learning/moodle-block_sponsors.git
+[submodule "blocks/faq"]
+	path = blocks/faq
+	url = https://github.com/call-learning/moodle-block_faq.git
+[submodule "blocks/thumblinks_action"]
+	path = blocks/thumblinks_action
+	url = https://github.com/call-learning/moodle-block_thumblinks_action.git
+[submodule "auth/psup"]
+	path = auth/psup
+	url = https://github.com/call-learning/moodle-auth_psup.git
+[submodule "filter/envf"]
+	path = filter/envf
+	url = https://github.com/call-learning/moodle-filter_envf.git
+[submodule "course/format/envfpsup"]
+	path = course/format/envfpsup
+	url = https://github.com/call-learning/moodle-format_envfpsup.git
+[submodule "blocks/featured_courses"]
+	path = blocks/featured_courses
+	url = https://github.com/call-learning/moodle-block_featured_courses
+[submodule "local/dash_by_role"]
+	path = local/dash_by_role
+	url = https://github.com/call-learning/moodle-local_dash_by_role.git
+[submodule "admin/tool/gdpr_plus"]
+	path = admin/tool/gdpr_plus
+	url = https://github.com/call-learning/moodle-tool_gdpr_plus.git
+[submodule "availability/condition/role"]
+	path = availability/condition/role
+	url = https://github.com/moodle-an-hochschulen/moodle-availability_role.git
+[submodule "mod/zoom"]
+	path = mod/zoom
+	url = https://github.com/ncstate-delta/moodle-mod_zoom.git
+[submodule "blocks/envf_slider"]
+	path = blocks/envf_slider
+	url = https://github.com/call-learning/moodle-block_envf_slider.git
